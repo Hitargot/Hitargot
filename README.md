@@ -1,4 +1,4 @@
-## Hi there 👋 I am a passionate learner
+## Hi there 👋 I am Hitargot a passionate learner
 
 <!--
 **Hitargot/Hitargot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
